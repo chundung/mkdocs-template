@@ -1,3 +1,6 @@
 site_name: chundung's fist mkdocs
 theme:
   name: material
+nav:
+  - Projects:
+      - 'README': 'projects/README.md'
