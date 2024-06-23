@@ -4,3 +4,5 @@ theme:
 nav:
   - Projects:
       - 'README': 'projects/README.md'
+  - Areas:
+      - 'README': 'areas/README.md'
