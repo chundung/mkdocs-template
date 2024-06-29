@@ -1,0 +1,10 @@
+
+{
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.10",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/mkdocs:2": {
+      "version": "latest",
+      "plugins": "mkdocs-material mkdocs-gen-nav-plugin"
+    }
+  }
+}

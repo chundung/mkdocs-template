@@ -1,6 +1,9 @@
 site_name: chundung's fist mkdocs
 theme:
   name: material
+plugins:
+  - gen_nav:
+      enabled: true
 nav:
   - Projects:
       - 'README': 'projects/README.md'
