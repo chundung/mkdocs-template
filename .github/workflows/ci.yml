@@ -26,4 +26,5 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-gen-nav-plugin
+      - run: mkdocs build
       - run: mkdocs gh-deploy --force
