@@ -4,8 +4,4 @@ theme:
 plugins:
   - gen_nav:
       enabled: true
-nav:
-  - Projects:
-      - 'README': 'projects/README.md'
-  - Resources:
-      - 'resources': 'resources/resources.md'
+
